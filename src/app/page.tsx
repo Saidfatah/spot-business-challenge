@@ -41,10 +41,10 @@ export default function Home() {
             <div className="col-span-2 row-span-2 border-t-[1px] border-black pl-[11.5rem]  xs:pl-[0rem]">
               <div className="flex xs:block" >
                 <div className="flex-1 flex flex-col pt-[2.5rem] relative xs:justify-between xs:content-start xs:flex-row xs:flex-wrap xs:mb-[3rem]">
-                  <a className="pb-[1.5rem] font-bold text-[1.375rem] leading-[125%  xs:basis-1/2 order-first" href="#">Solutions</a>
-                  <a className="pb-[1.5rem] font-bold text-[1.375rem] leading-[125%] xs:basis-1/2 order-3" href="#">Locations</a>
-                  <a className="pb-[1.5rem] font-bold text-[1.375rem] leading-[125%] xs:basis-1/2 xs:pl-[1rem] order-2 " href="#">Contact us</a>
-                  <a className="pb-[1.5rem] font-bold text-[1.375rem] leading-[125%] xs:basis-1/2 xs:pl-[1rem] order-last" href="#">Enterprise </a>
+                  <a className="pb-[1.5rem] font-bold text-[1.375rem] leading-[125%  xs:basis-1/2 xs:order-first" href="#">Solutions</a>
+                  <a className="pb-[1.5rem] font-bold text-[1.375rem] leading-[125%] xs:basis-1/2 xs:order-3" href="#">Locations</a>
+                  <a className="pb-[1.5rem] font-bold text-[1.375rem] leading-[125%] xs:basis-1/2 xs:pl-[1rem] xs:order-2 " href="#">Contact us</a>
+                  <a className="pb-[1.5rem] font-bold text-[1.375rem] leading-[125%] xs:basis-1/2 xs:pl-[1rem] xs:order-last" href="#">Enterprise </a>
                   <div className="hidden w-[1px] h-[8px] bg-black absolute top-0 left-0 xs:block xs:left-1/2 xs:-translate-x-1/2"></div>
                 </div>
                 <div className="flex-1 flex flex-col pt-[2.5rem] pl-[1rem] relative xs:border-t-[1px] xs:border-black xs:justify-between xs:content-start xs:flex-row xs:flex-wrap xs:mb-[3rem]">
